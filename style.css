@@ -1,0 +1,76 @@
+.header {
+	padding: 18px;
+	padding-bottom: 20px;
+}
+
+.menu {
+    text-align: center;
+    margin-bottom: 90px;
+    margin-top: 50px;
+}
+
+.menu_item {
+    display: inline-flex;
+    margin: 20px;
+    margin-left: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.nav_item {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+    color: grey;
+}
+
+.nav_item:hover {
+    color: lightblue
+}
+
+.container {
+    width: 100%;
+    display: block;
+}
+
+.four_blocks {
+    text-align: center;
+}
+
+.blocks {
+    display: inline-block ;
+    width: 500px;
+    text-align: center;
+    margin-left: 40px;
+    margin-bottom: 50px;
+}
+
+.image {
+    width: 100%;
+}
+
+.title {
+    text-align: left;
+    color: grey;
+}
+
+.topic {
+    text-align: left;
+    color: grey;
+    font-weight: bold;
+}
+
+.image_description {
+    text-align: left;
+    color: grey;
+}
+
+.btn {
+    font-size: 20px;
+    padding: 20px;
+    color: grey;
+    background-color: white;
+    border: 1px solid grey;
+    margin-bottom: 50px;
+}
+
